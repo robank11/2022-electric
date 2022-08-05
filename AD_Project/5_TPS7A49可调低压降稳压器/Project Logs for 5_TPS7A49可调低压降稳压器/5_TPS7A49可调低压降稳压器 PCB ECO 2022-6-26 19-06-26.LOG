@@ -1,0 +1,92 @@
+Added Component: Designator=C1(C 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(KF2EDGK5.08-WI-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(HDR2.54-WS-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(HDR2.54-WS-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=U1(DGN0008D_M)
+Add component (AddParameter): Name = "Accuracy(%)"; Value = "1.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-187"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPS7A4901&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds046e"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SBVS121B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iout(Max)(A)"; Value = "0.15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq(Typ)(mA)"; Value = "0.06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-pin Plastic Small Outline, Body 3 x 3 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DGN0008D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4073271/F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TPS7A4901DGNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Good"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Single Channel LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vdo(Typ)(mV)"; Value = "260"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin(Max)(V)"; Value = "36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin(Min)(V)"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vout Adj(Max)(V)"; Value = "33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vout Adj(Min)(V)"; Value = "1.2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=C1-2
+Added Pin To Net: NetName=+12 Pin=JP1-2
+Added Pin To Net: NetName=+12 Pin=U1-5
+Added Pin To Net: NetName=+12 Pin=U1-8
+Added Net: Name=+12
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=GND Pin=JP3-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-2
+Added Pin To Net: NetName=NetC2_1 Pin=U1-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C3-2
+Added Pin To Net: NetName=NetC2_2 Pin=JP2-1
+Added Pin To Net: NetName=NetC2_2 Pin=JP3-1
+Added Pin To Net: NetName=NetC2_2 Pin=R1-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-6
+Added Net: Name=NetC4_2
+Added Class: Name=5_TPS7A49可调低压降稳压器

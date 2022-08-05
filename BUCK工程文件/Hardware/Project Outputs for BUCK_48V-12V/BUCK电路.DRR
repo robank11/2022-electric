@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BUCK电路.PcbDoc   2022/7/2  7:58:23
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BUCK电路.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      14mil (0.356mm)                                           Round             20        PTH        0.00inch (0.00mm)
+T2      35mil (0.9mm)                                             Round             20        PTH        0.00inch (0.00mm)
+T3      39mil (1mm)                                               Round             9         PTH        0.00inch (0.00mm)
+T4      43mil (1.1mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T5      47mil (1.2mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T6      55mil (1.4mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T7      125mil (3.175mm)                                          Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              63
+
+Total Processing Time (hh:mm:ss) : 00:00:00

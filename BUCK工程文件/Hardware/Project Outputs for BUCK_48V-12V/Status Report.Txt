@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BUCK_48V-12V.PrjPcb]
+   Generated File[BUCK电路.TXT]
+   Generated File[BUCK电路.LDP]
+   Generated File[BUCK电路.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 7:58:23 On 2022/7/2
